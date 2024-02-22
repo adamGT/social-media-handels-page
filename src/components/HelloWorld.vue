@@ -13,13 +13,6 @@
       </v-col>
 
       <v-col class="mb-4">
-        <h3 class="white--text display-1 font-weight mb-1" >
-          Welcome to
-        </h3>
-        <h3 class="white--text display-1 font-weight-bold mb-3">
-          Blue Health Ethiopia
-        </h3>
-
         <p class="white--text subheading font-weight-regular">
           Thank you for your interest to contact us
           <br>you can reach us on any of the following social media. 
